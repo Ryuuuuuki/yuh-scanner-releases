@@ -1,0 +1,8 @@
+{
+  "versao": "0.5.0",
+  "publicada": "2026-10-19",
+  "notas": "- Botão Atualizar no topo: o app avisa sozinho quando há versão nova e se atualiza em poucos segundos\n- Cada versão é assinada digitalmente; o app recusa arquivos sem a assinatura oficial\n- Selecionar e copiar texto da página (ferramenta T, no canto da página)\n- Adicionar imagem ou PDF por cima da página ou como página nova\n- Salvar neste caminho, janela que abre do jeito que foi fechada e tema claro/escuro",
+  "exe": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.5.0/YuhScanner.exe",
+  "sig": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.5.0/YuhScanner.exe.sig",
+  "tamanho": 19175424
+}
