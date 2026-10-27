@@ -1,8 +1,8 @@
 {
-  "versao": "0.6.0",
-  "publicada": "2026-10-20",
-  "notas": "- Imprimir (Ctrl+P): marque as páginas, escolha cor, frente e verso, páginas por folha e salve seus perfis\n- Salvar separado: corte o documento em vários arquivos, cada um com seu nome\n- Encaixar na página: o scan entra dentro de uma página que já existe\n- Recuperação: se o app fechar sem salvar, o documento volta ao abrir\n- Adicionar imagem como página nova entra na hora, no tamanho certo",
-  "exe": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.6.0/YuhScanner.exe",
-  "sig": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.6.0/YuhScanner.exe.sig",
-  "tamanho": 19647488
+  "versao": "0.7.0",
+  "publicada": "2026-10-27",
+  "notas": "- Adicionar imagem: escolha ou arraste vários arquivos de uma vez, com a opção \"Fazer o mesmo para os próximos arquivos\"\n- PDF: escolha uma ou mais páginas para adicionar\n- Novo botão Espelhar (tecla E), ao lado do Recortar\n- Novo botão Excluir tudo, com confirmação (Ctrl+Z desfaz)\n- Barra de baixo sempre numa linha só",
+  "exe": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.7.0/YuhScanner.exe",
+  "sig": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.7.0/YuhScanner.exe.sig",
+  "tamanho": 19658240
 }

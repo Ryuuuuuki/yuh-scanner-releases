@@ -4,7 +4,7 @@ Aqui ficam só as versões prontas do **Yuh Scanner**, um app para Windows que d
 
 ## Baixar
 
-**[⬇ Baixar o YuhScanner.exe (versão 0.6.0)](https://github.com/Ryuuuuuki/yuh-scanner-releases/raw/main/versoes/0.6.0/YuhScanner.exe)**
+**[⬇ Baixar o YuhScanner.exe (versão 0.7.0)](https://github.com/Ryuuuuuki/yuh-scanner-releases/raw/main/versoes/0.7.0/YuhScanner.exe)**
 
 Todas as versões ficam na pasta [`versoes/`](versoes/). O arquivo [`ultima.json`](ultima.json) indica a mais recente (é ele que o app consulta).
 
