@@ -1,8 +1,8 @@
 {
-  "versao": "0.7.0",
-  "publicada": "2026-10-27",
-  "notas": "- Adicionar imagem: escolha ou arraste vários arquivos de uma vez, com a opção \"Fazer o mesmo para os próximos arquivos\"\n- PDF: escolha uma ou mais páginas para adicionar\n- Novo botão Espelhar (tecla E), ao lado do Recortar\n- Novo botão Excluir tudo, com confirmação (Ctrl+Z desfaz)\n- Barra de baixo sempre numa linha só",
-  "exe": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.7.0/YuhScanner.exe",
-  "sig": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.7.0/YuhScanner.exe.sig",
-  "tamanho": 19658240
+  "versao": "0.8.0",
+  "publicada": "2026-10-30",
+  "notas": "- Ligação com a Yuh Extension (Chrome): ela importa o que você salvou nas últimas 24 h e também as páginas que estão na tela, sem salvar\n- Novo: instalar a Yuh Extension no Chrome por aqui (botão da versão); depois ela se atualiza sozinha junto com o Yuh Scanner",
+  "exe": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.8.0/YuhScanner.exe",
+  "sig": "https://raw.githubusercontent.com/Ryuuuuuki/yuh-scanner-releases/main/versoes/0.8.0/YuhScanner.exe.sig",
+  "tamanho": 19847680
 }
